@@ -1,0 +1,6 @@
+{
+  "name": "Hotel Sri Anand Murgan",
+  "description": "Professional Hotel Management & Billing ERP system featuring a Live Billing Counter, Menu Editor, Order History tracker, Daily Sales analytics, Expense tracking, Stock Inventory, Staff Payroll management, and Reporting dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
